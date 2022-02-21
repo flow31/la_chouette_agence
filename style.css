@@ -617,9 +617,7 @@ a {
     color: #575757!important;
 }
 
-.container {
-    max-width: 1000px;
-}
+
 
 .hero-bloc-text {
     font-size: 38px;
@@ -642,9 +640,13 @@ a {
 p {
     font-size: 11px;
 }
+.col-sm-12
+{
+    text-align: center;
+}
 
 .tight-width-whitespace {
-    max-width: 600px;
+    
     margin: auto auto auto auto;
 }
 
